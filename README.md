@@ -46,6 +46,8 @@ ip-adapter-plus_sdxl_vit-h.safetensors
 
 ip-adapter-plus-face_sdxl_vit-h.safetensors
 
+pixe-art-xl-v1.1.safetensors (Lora с civitai)
+
 -----------------------------------------------------------------------------
 
 На вход подаются исходные изображения с покадровой анимацией для извлечение скелетной позы 
